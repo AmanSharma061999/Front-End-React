@@ -1,0 +1,8 @@
+.inputStyling{
+  align-self: center;
+  border-radius: 5px;
+  border: 0.8px solid black;
+  width: 100%;
+  padding : 5px;
+  margin: 10px 0px;
+}
